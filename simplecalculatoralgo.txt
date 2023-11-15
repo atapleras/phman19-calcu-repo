@@ -1,0 +1,29 @@
+1. Start
+2. Print Operation
+3. Select Operation
+4. Check the condition - if ops is equal to 1
+5. Input 1st number
+6. Input 2nd number
+7. Print the operation and answer
+8. If 1st number or 2nd number is equal to float go to step 9, if no Print "Invalid input. Please enter a number then go to Step 3.
+9. Print the operation and answer
+10. Check the condition - elseif ops is equal to 2
+11. Input 1st number
+12. Input 2nd number
+13. If 1st number or 2nd number is equal to float go to step 14, if no Print "Invalid input. Please enter a number then go to Step 3.
+14. Print the operation and answer
+15. Check the condition - elseif ops is equal to 3
+16. Input 1st number
+17. Input 2nd number
+18. If 1st number or 2nd number is equal to float go to step 19, if no Print "Invalid input. Please enter a number then go to Step 3.
+19. Print the operation and answer
+20. Check the condition - elseif ops is equal to 4.
+21. If 2nd number is not equal to 0, if yes Print "Zero Division Error then go to Step 3.
+22. Input 1st number
+23. Input 2nd number
+24. If 1st number or 2nd number is equal to float go to step 25, if no Print "Invalid input. Please enter a number then go to Step 3.
+25. Print the operation and answer
+26. Check the condition - else ops, Print Invalid Input then go to Step 3.
+27. Input Another Calculation
+28. Check the condition - if Another Calculation is equal to no or n go to Step 29, if not then go to Step 3.
+29. Stop
